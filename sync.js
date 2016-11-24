@@ -7,4 +7,5 @@ fs.readFileSync('abc.txt',function (err, data) {
         console.log(data.toString());
     }
 });
+console.log("git");
 console.log("@End");
